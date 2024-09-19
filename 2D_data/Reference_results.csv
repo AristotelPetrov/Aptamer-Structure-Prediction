@@ -1,0 +1,70 @@
+CentroidFold,RNAfold,Mfold,PDB_ID,Structure,Len
+1.,1.,1.,1JVE,Triplex-DNA,27
+1.,1.,1.,1NGU,Hairpin with pseudoknots,27
+1.,1.,1.,2OEY,Hairpin with loops,25
+1.,1.,1.,2VWJ,Hairpin with dangling ends,26
+1.,1.,1.,3THW,Hairpin with loops,53
+1.,1.,1.,4HT4,Hairpin with dangling ends,28
+0.92,1.,1.,1NGO,Hairpin,27
+0.92,1.,1.,5N2Q,Hairpin with dangling ends,26
+0.77,1.,1.,3H25,Hairpin with dangling ends,27
+0.55,1.,1.,1AW4,Hairpin with pseudoknots,27
+1.,0.96,1.,6CCE,Hairpin with dangling ends,57
+0.6,0.6,1.,1B4Y,Triplex-DNA,30
+0.91,0.95,0.95,2N8A,Double hairpin,45
+0.75,0.65,0.95,3HXQ,Two-forked with pseudoknots,41
+0.88,0.88,0.94,5HRT,Hairpin with loops,34
+0.93,1.,0.93,1GN7,Triplex-DNA,32
+0.93,1.,0.93,1WAN,Triplex-DNA,32
+0.8,1.,0.93,2ARG,Hairpin with pseudoknots,30
+0.93,0.93,0.93,4F41,Hairpin,32
+0.93,0.93,0.93,4F43,Hairpin,32
+0.93,0.93,0.93,4TMU,Hairpin with dangling ends,29
+0.87,0.93,0.93,4ER8,Hairpin with dangling ends,32
+0.75,0.75,0.93,5HRU,Hairpin with loops and pseudoknots,32
+0.84,0.92,0.92,134D,Triplex-DNA,25
+0.84,0.92,0.92,135D,Triplex-DNA,25
+0.84,0.92,0.92,136D,Triplex-DNA,25
+0.9,0.9,0.9,5D2Q,Hairpin,40
+0.89,0.89,0.89,4CEI,Hairpin with dangling ends,37
+0.83,0.89,0.89,4CEH,Hairpin with dangling ends,37
+0.88,0.92,0.88,5LD2,Hairpin with dangling ends,51
+0.83,0.88,0.88,3U44,Hairpin with dangling ends,36
+0.61,0.66,0.88,1SNJ,Two forked,36
+0.5,0.66,0.88,1EZN,Two forked,36
+0.85,0.85,0.85,3U4Q,Hairpin with dangling ends,27
+0.61,0.73,0.85,2F1Q,Three-forked,42
+0.8,0.7,0.85,4REC,Double-stranded,40
+0.92,0.84,0.84,1OMH,Hairpin with dangling ends,25
+0.92,0.84,0.84,1QX0,Hairpin with dangling ends,25
+0.92,0.84,0.84,1S6M,Hairpin with dangling ends,25
+0.92,0.84,0.84,1ZM5,Hairpin with dangling ends,25
+0.76,0.84,0.84,5D23,Hairpin,26
+0.83,0.88,0.83,5D2S,Hairpin,36
+0.33,0.73,0.73,2M91,Hairpin with G-quadruplex,30
+0.8,0.45,0.72,3HXO,Two forked with pseudoknots,40
+0.62,0.7,0.7,2M8Z,Hairpin with G-quadruplex,27
+0.77,0.68,0.67,4CEJ,Hairpin with dangling ends,46
+0.65,1.,0.63,5CMX,Double-stranded with G-quadruplex,30
+0.62,0.87,0.62,2M90,Hairpin with G-quadruplex,32
+0.14,0.2,0.61,2M92,Hairpin with G-quadruplex,34
+0.5,0.56,0.56,2M93,Hairpin with G-quadruplex,32
+0.48,0.48,0.51,4I7Y,Double-stranded with G-quadruplex,27
+0.53,1.,0.46,2HY9,G-quadruplex,26
+0.53,1.,0.46,2JPZ,G-quadruplex,26
+0.53,1.,0.46,2LPW,G-quadruplex,26
+0.53,1.,0.46,5MVB,G-quadruplex,26
+0.53,1.,0.46,6CCW,G-quadruplex,26
+0.52,1.,0.44,2JSL,G-quadruplex,25
+0.52,1.,0.44,2JSQ,G-quadruplex,25
+0.48,0.92,0.4,2MBJ,G-quadruplex,27
+0.48,0.64,0.4,2M53,G-quadruplex,25
+0.46,0.92,0.38,5Z80,G-quadruplex,26
+0.58,0.38,0.38,5MTA,G-quadruplex,34
+0.58,0.38,0.38,5MTG,G-quadruplex,34
+0.42,0.71,0.35,2MS9,G-quadruplex,28
+0.42,0.71,0.35,4U5M,G-quadruplex,28
+0.42,0.71,0.32,2N3M,G-quadruplex,28
+0.1,1.,0.25,201D,G-quadruplex,28
+0.36,1.,0.24,5J6U,G-quadruplex,25
+0.1,1.,0.14,230D,G-quadruplex,28
