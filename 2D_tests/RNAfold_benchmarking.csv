@@ -1,0 +1,70 @@
+,PDB_ID,Sequence,2D,Len,Structure,RNAfold_ref,RNAfold_2D,RNAfold_real
+0,1JVE,cctaattataacgaagttataattagg,(((((((((((((.))))))))))))),27,Triplex-DNA,1.0,((((((((((((...)))))))))))),0.93
+1,1NGU,ctctccttgtatttcttacaaaaagag,(((((((((((.....))))))))))),27,Hairpin with pseudoknots,1.0,((((..(((((.....)))))..)))),0.85
+2,2OEY,ccatcgtctacctttggtaggatgg,(((((..(((((...)))))))))),25,Hairpin with loops,1.0,(((((..(((((...)))))))))),1.0
+3,2VWJ,aauggagacacggcttttgccgtgtc,......((((((((....)))))))),26,Hairpin with dangling ends,1.0,......((((((((....)))))))),1.0
+4,3THW,cctctatctgaagccgatcgatgaagcatcgatcgcacagcttcagatagagga,((((((((((((((((((((((((.))))))))))....)))))))))))))).,53,Hairpin with loops,1.0,(((((((((((((((((((((((...)))))))))....)))))))))))))).,0.96
+5,4HT4,cgcgaacggaacgttcgcataagtgcgc,.((((((((.))))))))........(),28,Hairpin with dangling ends,1.0,.(((((((...)))))))..........,0.86
+6,1NGO,ctctttttgtaagaaatacaaggagag,(((((((((((.....))))))))))),27,Hairpin,1.0,(((((((((((.....))))))))))),1.0
+7,5N2Q,actttatgaaaataaagtatagtgtg,(((((((....)))))))........,26,Hairpin with dangling ends,1.0,(((((((....)))))))........,1.0
+8,3H25,cctttccccctacccgaagggtggggg,......(((((((((...))))))))),27,Hairpin with dangling ends,1.0,......(((((((((...))))))))),1.0
+9,1AW4,acctgggggagtattgcggaggaaggtaaacctgggggagtattgcggaggaaggtaa,(((((()([(((...))))..{)))))]}(((((()([(((...))))..{)))))]},27,Hairpin with pseudoknots,1.0,((((...(.((((((.(..(((........)))...).)))))).)......))))..,0.26
+10,6CCE,gcttgacaaaagtgttaaattgtgctatactagcacaatttaacacttttgtcaagc,((((((((((((((((((((((((((.....)))))))))))))))))))))))))),57,Hairpin with dangling ends,0.96,(((((((((((((((((((((((((((...))))))))))))))))))))))))))),0.96
+11,1B4Y,tcttccttttccttctcccgagaaggtttt,.....(....(((((((..))))))))...,30,Triplex-DNA,0.6,....(((((((........)))))))....,0.6
+12,2N8A,gctggcttcgtaagaagccagctcgcggtcagcttgctgaccgcg,((((((((((..)))))))))).((((((((((..)))))))))),45,Double hairpin,0.95,(((((((((....))))))))).(((((((((....))))))))),0.91
+13,3HXQ,ggcgtgcagtgccttcggccgtgcggtgcctccgtcacgcc,((((((.((.(((...))))).((((.(.).)))))))))),41,Two-forked with pseudoknots,0.65,((((.....))))...(((.((((((.....))).)))))),0.59
+14,5HRT,cctggacggaaccagaatacttttggtctccagg,((((((((.)(((((((...)))))))))))))),34,Hairpin with loops,0.88,((((((..((.((((((...)))))))))))))),0.85
+15,1GN7,agagagaaccccttctctcttatatctgtctt,((((((((....))))))))............,32,Triplex-DNA,1.0,((((((((....))))))))............,1.0
+16,1WAN,agatagaaccccttctatcttatatctutctt,((((((((....))))))))............,32,Triplex-DNA,1.0,((((((((....))))))))............,1.0
+17,2ARG,tgaccagggcaaacggtaggtgagtggtca,(((((((([[).((]....))].))))))),30,Hairpin with pseudoknots,1.0,((((((......((.....))...)))))),0.73
+18,4F41,cataataacaatatcttgatattgttattatg,(((((((((((((((..))))))))))))))),32,Hairpin,0.93,((((((((((((((....)))))))))))))),0.94
+19,4F43,cataataacaatatcaagatattgttattatg,(((((((((((((((..))))))))))))))),32,Hairpin,0.93,((((((((((((((....)))))))))))))),0.94
+20,4TMU,gtagaattgaaattctaccggtgccttac,((((((((()))))))))...........,29,Hairpin with dangling ends,0.93,(((((((....)))))))...........,0.86
+21,4ER8,gtaggacggataaggcgtttacgccgcatccg,......((((((((((((..)))))))))))),32,Hairpin with dangling ends,0.93,......(((((..((((....))))..))))),0.81
+22,5HRU,tcgattggattgtgccggaagtgctggctcga,((((....([[.)(((((]](.)))))))))),32,Hairpin with loops and pseudoknots,0.75,.........(((.(((((.....))))).))),0.56
+23,134D,tcctcctttaggaggatttggtggt,(((((((())))))))().......,25,Triplex-DNA,0.92,((((((....)))))).........,0.76
+24,135D,tcctcctttaggaggatttggtggt,(((((((())))))))().......,25,Triplex-DNA,0.92,((((((....)))))).........,0.76
+25,136D,tcctcctttaggaggatttggtggt,(((((((())))))))().......,25,Triplex-DNA,0.92,((((((....)))))).........,0.76
+26,5D2Q,gatgaatctatgtaaatactagtatttacatagattcatc,(((((((((((((((((((()))))))))))))))))))),40,Hairpin,0.9,((((((((((((((((((....)))))))))))))))))),0.9
+27,4CEI,ctaatgcgagcactagtgctcgcattagattttgtttaa,(((((((((((((())))))))))))))...........,37,Hairpin with dangling ends,0.89,((((((((((((....))))))))))))...........,0.9
+28,4CEH,tctaatgcgagcacgtgctcgcattagattttgtttt,(((((((((((((()))))))))))))).........,37,Hairpin with dangling ends,0.89,((((((((((((....)))))))))))).........,0.89
+29,5LD2,tttttttttttttctaatgcgagcactgctagcagtgctcgcattagattta,............(((((((((((((((((())))))))))))))))))....,51,Hairpin with dangling ends,0.92,............((((((((((((((((....))))))))))))))))....,0.92
+30,3U44,tctaatgcgagcactgcagtgctcgcattagatttt,(((((((((((((((())))))))))))))))....,36,Hairpin with dangling ends,0.88,((((((((((((((....))))))))))))))....,0.89
+31,1SNJ,cgtgcagcggcttgccggcacttgtgcttctgcacg,(((((((((((..))))((((..))))..))))))),36,Two forked,0.66,(((((((.(((..............))).))))))),0.67
+32,1EZN,cgtgcacccgcttgcggcgacttgtcgttgtgcacg,(((((((((((..))))((((..))))..))))))),36,Two forked,0.66,(((((((......(((((.....))))).))))))),0.67
+33,3U4Q,taatgcgagcgctcgcattagattttg,(((((((((()))))))))).......,27,Hairpin with dangling ends,0.85,((((((((....)))))))).......,0.85
+34,2F1Q,gcactgcatccttggacgcttgcgccacttgtggtgcagtgc,(((((((((((..)))(((..)))((((..)))))))))))),42,Three-forked,0.73,(((((((((((.(((.((....)))))...).)))))))))),0.74
+35,4REC,cgttgctacgcgtggcgagccgtagcaacggctcgccacg,(((((((((([[[[[[[[[[))))))))))]]]]]]]]]],40,Double-stranded,0.7,(((....)))(((((((((((((....))))))))))))),0.15
+36,1OMH,gcgcaccgaaaggtgcgtattgtct,..((((((.).))))).........,25,Hairpin with dangling ends,0.84,(((((((....))))))).......,0.76
+37,1QX0,gcgcaccgaaaggtgcgtattgtct,..(((((....))))).........,25,Hairpin with dangling ends,0.84,(((((((....))))))).......,0.84
+38,1S6M,gcgcaccgaaaggtgcgtattgtct,..((((((.).))))).........,25,Hairpin with dangling ends,0.84,(((((((....))))))).......,0.76
+39,1ZM5,gcgcaccgaaaggtgcgtattgtct,..((((((.).))))).........,25,Hairpin with dangling ends,0.84,(((((((....))))))).......,0.76
+40,5D23,gaatctatgtaaatttacatagattc,((((((((((((())))))))))))),26,Hairpin,0.84,(((((((((((....))))))))))),0.85
+41,5D2S,tgtatgtatgtatgtatgcatacatacatacataca,(((((((((((((((((()))))))))))))))))),36,Hairpin,0.88,((((((((((((((((....)))))))))))))))),0.89
+42,2M91,gggaagggcgcgaagcattcgcgaggtagg,(([..))((((((((.))))))))((.])),30,Hairpin with G-quadruplex,0.73,........((((((...)))))).......,0.53
+43,3HXO,ggcgtgcagtgccttcggccgtgcggtgcctccgtcacgc,.(((((.((.(((...))))).((((.(.).))))))))),40,Two forked with pseudoknots,0.45,(((.((((..(((...)))..))))..)))..........,0.45
+44,2M8Z,ggttggcgcgaagcattcgcgggttgg,((..))((((((...))))))((..)),27,Hairpin with G-quadruplex,0.7,......((((((...))))))......,0.7
+45,4CEJ,tctaatgcgagcatgctcgcattagattttgtttttttagcggtttaa,((((((((((((()))))))))))))....()................,46,Hairpin with dangling ends,0.68,(((((((((((....)))))))))))..(((((.....))))).....,0.73
+46,5CMX,tgacgtaggttggtgtggttggggcgtcac,(((((((((..)).[)](..)..)))))).,30,Double-stranded with G-quadruplex,1.0,((((((.++..++...++..++.)))))).,0.87
+47,2M90,gcgcgaagcattcgcggggaggtggggaaggg,((((((((.))))))))([)(].[)(...].),32,Hairpin with G-quadruplex,0.87,.((((((...)))))).++.++.++....++.,0.75
+48,2M92,agggtgggtgctggggcgcgaagcattcgcgagg,(([{.)]}.[.)]([(((((((...))))))))],34,Hairpin with G-quadruplex,0.2,...(((((((((.........)))))))))....,0.15
+49,2M93,ttgggtgggcgcgaagcattcgcggggtgggt,()([{.)]}.(((((...))))).([{.)]}.,32,Hairpin with G-quadruplex,0.56,.........((((((...))))))........,0.5
+50,4I7Y,gtccgtggtagggcaggttggggtgac,(((([(](.[)...).(.])..).))),27,Double-stranded with G-quadruplex,0.48,((((......)))).............,0.41
+51,2HY9,aaagggttagggttagggttagggaa,.[{([{...)]}.(.(((.]})))).,26,G-quadruplex,1.0,...+++...+++...+++...+++..,0.77
+52,2JPZ,ttagggttagggttagggttagggtt,...[([)(.](](.)[)(...].)).,26,G-quadruplex,1.0,...+++...+++...+++...+++..,0.77
+53,2LPW,aagggtgggtgtaagtgtgggtgggt,.(([{.)]}........)([{.)]}.,26,G-quadruplex,1.0,..+++.+++.........+++.+++.,0.92
+54,5MVB,ttagggttagggttagggttagggtt,...(((...)))...([{...)]}..,26,G-quadruplex,1.0,...+++...+++...+++...+++..,1.0
+55,6CCW,ttagggttagggttagggttagggtt,((.(((.[.))))).([{...)]}].,26,G-quadruplex,1.0,...+++...+++...+++...+++..,0.77
+56,2JSL,tagggttagggttagggttagggtt,..(([)()][)...(][...).]..,25,G-quadruplex,1.0,..+++...+++...+++...+++..,0.84
+57,2JSQ,tagggttagggttagggttagggtt,..(((.())))...([{...)]}..,25,G-quadruplex,1.0,..+++...+++...+++...+++..,0.92
+58,2MBJ,ttagggttagggttagggttagggtta,..{(((..[)))...(((..})))]..,27,G-quadruplex,0.92,...+++...+++...+++...+++...,0.85
+59,2M53,tgtgggggtggacgggccgggtaga,...(([)]..)..([{())]}....,25,G-quadruplex,0.64,((.++.++.++..++..))......,0.68
+60,5Z80,aaagggttagggttagggttagggaa,..[([{...)]}.(.(((.].)))).,26,G-quadruplex,0.92,...+++...+++...+++...+++..,0.85
+61,5MTA,cagggttaagggtataactttaggggttagggtt,..(([.).{)(](((..)..))[.(}...))]..,34,G-quadruplex,0.38,.....((((((......))))))...........,0.41
+62,5MTG,cagggttaagggtataactttaggggttagggtt,.{(([.).{)(](((....)))[.(}}..))]..,34,G-quadruplex,0.38,.....((((((......))))))...........,0.35
+63,2MS9,tggtggtggtggttgtggtggtggtgtt,(([.)])([.)]..(.[).](.[).]..,28,G-quadruplex,0.71,.++.++.++.++................,0.64
+64,4U5M,tggtggtggtggttgtggtggtggtgtt,(([.)])([.)]..(.[).](.[).]..,28,G-quadruplex,0.71,.++.++.++.++................,0.64
+65,2N3M,tggtggtggttgttgtggtggtggtggt,(([.)].[{.)]..}.([.)].([.)].,28,G-quadruplex,0.71,................++.++.++.++.,0.64
+66,201D,ggggttttggggttttggggttttgggg,(((((.)[))))....((((...])))),28,G-quadruplex,1.0,++++....++++....++++....++++,0.86
+67,5J6U,ggggtttggggttttggggaagggg,((((.[.))))....(((]...))),25,G-quadruplex,1.0,++++...++++....++++..++++,0.92
+68,230D,ggggtutuggggttttgggguuttgggg,((((...)[)))(.).(((.....]))),28,G-quadruplex,1.0,++++....++++....++++....++++,0.86
