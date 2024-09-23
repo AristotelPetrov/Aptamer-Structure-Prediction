@@ -5,4 +5,4 @@ Folder with files connected with secondary structure data mining
 
 - Data_collector.ipynb - Reference_results.csv -> Aptamers_2D.csv: convert pdb ids to sequence and secondary structure of aptamers using RNApdbee web-server
 
-- TestSetA.csv, TestSetB, TestSetAB.csv - data used to train MXfold2 model
+- TestSetA.csv, TestSetB, TestSetAB.csv - data used to test MXfold2 model
